@@ -1,0 +1,5 @@
+inp=input("enter number")
+x=inp.split(",")
+tup=tuple(x)
+print (x)
+print(tup)

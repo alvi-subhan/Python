@@ -1,0 +1,1 @@
+series function convert the list elements to float by default and also it do indexing

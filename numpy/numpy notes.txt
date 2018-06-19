@@ -1,0 +1,11 @@
+list take hetrogenous data while areay takes homogenous
+array of numpy is faster then the conventional list of python
+%logstart = name of active file (for jupyter notebook)
+%run -i p1.py
+%run -d p1.py (arguments)
+jtn will automatically print the last variable (for e,g a,b,c) c will be printed
+dtype = for datatype of array
+reshape= chaning of shape
+
+ravel arranges the array in a single line (doesnt change the orignal one)
+flatten change the orignal
